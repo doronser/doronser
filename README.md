@@ -2,7 +2,7 @@
 <h3 align="center">Electrical engineer by day, computer vision enthusiast by night</h3>
 
 - 👨‍🎓 B.Sc Electrical & Computer Engineering, Ben-Gurion University
-- 
+ 
 - 🔭 I’m currently working on **some cool medical imaging projects**
 
 - 🌱 I’m always interested in learning **the latest advances in computer vision**
