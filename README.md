@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Doron</h1>
 <h3 align="center">Electrical engineer by day, computer vision enthusiast by night</h3>
 
+- 👨‍🎓 B.Sc Electrical & Computer Engineering, Ben-Gurion University
+- 
 - 🔭 I’m currently working on **some cool medical imaging projects**
 
 - 🌱 I’m always interested in learning **the latest advances in computer vision**
@@ -15,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+👨‍💻[4 Lessons From My First Image Processing Hackathon](https://towardsdatascience.com/lessons-i-learnt-from-my-first-image-processing-hackathon-f3f8ae6ae748)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
