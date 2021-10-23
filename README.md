@@ -18,6 +18,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 👨‍💻[Workout Monitoring Using Optical-Flow — Part 2](https://doronser.medium.com/workout-monitoring-using-optical-flow-part-2-8cd55e55fbe5)
+
 👨‍💻[Workout Monitoring Using Optical-Flow — Part 1](https://towardsdatascience.com/workout-monitoring-using-optical-flow-part-1-4fa81f8cb56e)
 
 👨‍💻[4 Lessons From My First Image Processing Hackathon](https://towardsdatascience.com/lessons-i-learnt-from-my-first-image-processing-hackathon-f3f8ae6ae748)
