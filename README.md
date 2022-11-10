@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doron</h1>
-<h3 align="center">Electrical engineer by day, computer vision enthusiast by night</h3>
+<h3 align="center">MLOps Engineer by day, M.Sc. student by night</h3>
 
-- 👨‍🎓 B.Sc Electrical & Computer Engineering, Ben-Gurion University
+- 👨‍🎓 M.Sc. Electrical & Computer Engineering, Ben-Gurion University
  
 - 🔭 I’m currently working on **some cool medical imaging projects**
 
