@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Doron</h1>
-<h3 align="center">MLOps Engineer by day, M.Sc. student by night</h3>
+<h3 align="center">Research Engineer by day, M.Sc. student by night</h3>
 
 - 👨‍🎓 M.Sc. Electrical & Computer Engineering, Ben-Gurion University
  
-- 🔭 I’m currently working on **some cool medical imaging projects**
+- 🔭 I’m currently working on **domain adaptation for medical imaging**
 
 - 🌱 I’m always interested in learning **the latest advances in computer vision**
 
-- 👯 I’m looking to collaborate on **autonomous driving projects**
+- 👯 I have 4+ years of experience in the automotive industry (MLOps & research).
 
 - 📜 I write on Medium sometimes [@doronser](https://doronser.medium.com/)
 
 - 📫 How to reach me **doronser@gmail.com**
+
+### Publications
+[Physics and semantic informed multi-sensor calibration via optimization theory and self-supervised learning, Nature Scientific Reports, 2024](https://www.nature.com/articles/s41598-024-53009-z)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
